@@ -14,22 +14,31 @@ cmdhd = Config.COMMAND_HAND_LER
 
 
 vlist = [
+    "ALIVE_CHANNEL",
     "ALIVE_PIC",
     "ALIVE_EMOJI",
     "ALIVE_TEXT",
     "ALIVE_TEMPLATE",
     "ALLOW_NSFW",
     "HELP_EMOJI",
+    "HELP_PIC",
     "HELP_TEXT",
     "IALIVE_PIC",
+    "INLINE_PIC",
+    "LOG_LIVE",
+    "PING_PIC",
+    "PING_PICS",
+    "PING_TEXT",
     "PM_PIC",
     "PM_TEXT",
     "PM_BLOCK",
     "MAX_FLOOD_IN_PMS",
     "START_TEXT",
+    "THUMB_IMAGE", 
     "NO_OF_ROWS_IN_HELP",
     "NO_OF_COLUMNS_IN_HELP",
     "CUSTOM_STICKER_PACKNAME",
+    "PUBLIC_CHANNEL_ID",
 ]
 
 oldvars = {
